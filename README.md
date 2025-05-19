@@ -40,27 +40,35 @@ A modern delivery management dashboard focusing on partner management and smart 
 ### Installation
 
 1. Clone the repository
-   \`\`\`bash
+
+   ```
    git clone https://github.com/ishitajain-30/Smart-Delivery-Management-System.git
    <!-- cd smart-delivery-management -->
 
-   \`\`\`
+   ```
 
 2. Install dependencies
-   \`\`\`bash
-   npm install
-   \`\`\`
+
+```
+
+npm install
+
+```
 
 3. Run the development server
-   \`\`\`bash
-   npm run dev
-   \`\`\`
+
+```
+
+npm run dev
+
+```
 
 4. Open [http://localhost:3000](http://localhost:3000) in your browser
 
 ## Project Structure
 
 ```
+
 smart-delivery-management/
 ├── app/ # Next.js App Router
 │ ├── api/ # API Routes
@@ -74,6 +82,7 @@ smart-delivery-management/
 │ └── assignment-algorithm.ts # Smart assignment algorithm
 ├── types/ # TypeScript type definitions
 └── public/ # Static assets
+
 ```
 
 ## API Routes
@@ -104,10 +113,6 @@ The smart assignment algorithm takes into account:
 2. Area coverage
 3. Partner shift times
 4. Partner performance metrics
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ```
 
