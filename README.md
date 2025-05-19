@@ -60,6 +60,7 @@ A modern delivery management dashboard focusing on partner management and smart 
 
 ## Project Structure
 
+```
 smart-delivery-management/
 ├── app/ # Next.js App Router
 │ ├── api/ # API Routes
@@ -73,6 +74,7 @@ smart-delivery-management/
 │ └── assignment-algorithm.ts # Smart assignment algorithm
 ├── types/ # TypeScript type definitions
 └── public/ # Static assets
+```
 
 ## API Routes
 
@@ -106,3 +108,7 @@ The smart assignment algorithm takes into account:
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+```
+
+```
