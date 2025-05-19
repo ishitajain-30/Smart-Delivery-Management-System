@@ -60,7 +60,6 @@ A modern delivery management dashboard focusing on partner management and smart 
 
 ## Project Structure
 
-\`\`\`
 smart-delivery-management/
 ├── app/ # Next.js App Router
 │ ├── api/ # API Routes
@@ -74,7 +73,6 @@ smart-delivery-management/
 │ └── assignment-algorithm.ts # Smart assignment algorithm
 ├── types/ # TypeScript type definitions
 └── public/ # Static assets
-\`\`\`
 
 ## API Routes
 
