@@ -40,7 +40,9 @@ A modern delivery management dashboard focusing on partner management and smart 
 ### Installation
 
 1. Clone the repository
+
 ` git clone https://github.com/ishitajain-30/Smart-Delivery-Management-System.git`
+
 <!-- cd smart-delivery-management -->
 
 2. Install dependencies
