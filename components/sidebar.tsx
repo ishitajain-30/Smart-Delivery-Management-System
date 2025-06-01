@@ -63,7 +63,7 @@ export function Sidebar() {
       <div className="flex h-16 items-center px-4 border-b justify-between">
         {isOpen ? (
           <>
-            <h1 className="font-bold text-xl">DataFlow</h1>
+            <h1 className="font-bold text-xl">DataFlow </h1>
             <Button
               variant="ghost"
               size="icon"
